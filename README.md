@@ -1,21 +1,43 @@
-MIT License
+# OOP Coding Exercises (Java)
 
-Copyright (c) 2026 Manthan Vaghela
+This repository contains a comprehensive collection of practical coding exercises completed as part of the Object Oriented Programming (OOP) coursework. The exercises are organized into sets based on concepts.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Project Structure
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The source code is located in the root directory, categorized by practical sets.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 📂 [SET-01 (Basics of JAVA)](SET-01%20(Basics)/README.md)
+*   *In Progress...*
+
+### 📂 [SET-02 (OOP Concepts - Part 1)](SET-02%20(OOP%20Concepts-1)/README.md)
+*   *In Progress...*
+
+### 📂 [SET-03 (OOP Concepts - Part 2)](SET-03%20(OOP%20Concepts-2)/README.md)
+*   *In Progress...*
+
+### 📂 [SET-04 (Inheritance)](SET-04%20(Inheritance)/README.md)
+*   *In Progress...*
+
+### 📂 [SET-05 (Interface & Abstract)](SET-05%20(Interface%20&%20Abstract)/README.md)
+*   *In Progress...*
+
+### 📂 [SET-06 (Exception Handling)](SET-06%20(Exception%20Handling)/README.md)
+*   *In Progress...*
+
+### 📂 SET-07 (Threading)
+*   *In Progress...*
+
+### 📂 SET-08 (File IO)
+*   *In Progress...*
+
+### 📂 SET-09 (Collections)
+*   *In Progress...*
+
+### 📂 SET-10 (JavaFX)
+*   *In Progress...*
+
+## How to Run
+
+1.  Navigate to the specific set folder.
+2.  Compile the Java file: `javac PracticalXX.java`
+3.  Run the class: `java PracticalXX`
