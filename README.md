@@ -6,17 +6,17 @@ This repository contains a comprehensive collection of practical coding exercise
 
 The source code is located in the root directory, categorized by practical sets.
 
-### 📂 [SET-01 (Basics of JAVA)]
+### 📂 SET-01 (Basics of JAVA)
 
-### 📂 [SET-02 (OOP Concepts - Part 1)]
+### 📂 SET-02 (OOP Concepts - Part 1)
 
-### 📂 [SET-03 (OOP Concepts - Part 2)]
+### 📂 SET-03 (OOP Concepts - Part 2)
 
-### 📂 [SET-04 (Inheritance)]
+### 📂 SET-04 (Inheritance)
 
-### 📂 [SET-05 (Interface & Abstract)]
+### 📂 SET-05 (Interface & Abstract)
 
-### 📂 [SET-06 (Exception Handling)]
+### 📂 SET-06 (Exception Handling)
 
 ### 📂 SET-07 (Threading)
 
